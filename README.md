@@ -1,3 +1,3 @@
-# Checkout My website : https://iamnikhilverma.github.io/nikhilverma/
+# Checkout My website : https://vermanikhil.netlify.app/
 Portfolio Website
 ![Design preview for the Testimonials grid section coding challenge](./nkhil.jpg)
